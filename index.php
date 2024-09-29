@@ -163,7 +163,7 @@ require 'cookies.php';
             }
         </style>
         <script defer data-domain="onetime.dog" src="/assets/script.js"></script>
-        <script type="module" crossorigin src="/assets/index-2f78f68e.js?v=430"></script>
+        <script type="module" crossorigin src="/assets/index-2f78f68e.js?v=435"></script>
         <link rel="modulepreload" crossorigin href="/assets/vendor-1253c29e.js">
         <link rel="stylesheet" href="/assets/index-26cd5fcb.css">
     </head>

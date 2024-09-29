@@ -114,7 +114,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
           <!-- CSS For this Page -->
-          <link rel="icon" href="../assets/age-wallet.png">
+          <link rel="icon" href="../assets/age-wallet2.png">
           <link rel="stylesheet" href="library/login_css.css">
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -124,7 +124,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       <body>
 
 		<div id="logindiv">
-			<img id="mylogo" src="../assets/age-wallet.png">
+			<img id="mylogo" src="../assets/age-wallet2.png">
 
 			<form action="index" method="post" autocomplete="off">
                 <?php echo $error_no_user_found ? '<h3 style="color: red; text-align: center;">User Not Found</h3>' : ""; ?>

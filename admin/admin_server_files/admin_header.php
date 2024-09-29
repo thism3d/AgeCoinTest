@@ -43,7 +43,7 @@ if ($result->num_rows > 0) {
 
 
           <!-- CSS For this Page -->
-          <link rel="icon" href="../assets/age-wallet.png">
+          <link rel="icon" href="../assets/age-wallet2.png">
 		  
 		  <!--  <link rel="stylesheet" href="../main_v0.0.3.css">-->
   	      <link rel="stylesheet" href="library/main0.0.1.css"> <!-- Oncher Website CSS -->
@@ -97,7 +97,7 @@ if ($result->num_rows > 0) {
 				  <div id="first_section">    <!-- First Section Starts Here -->
 
 					<div id="left_first_section">
-					  <a href="index"><img src="../assets/age-wallet.png" alt="<?php echo $botName; ?> Logo"></a>
+					  <a href="index"><img src="../assets/age-wallet2.png" alt="<?php echo $botName; ?> Logo"></a>
 					</div>
 
 					<div id="right_first_section">
