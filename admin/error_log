@@ -1,0 +1,21 @@
+[28-Sep-2024 22:19:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'moshcplo_ageapptest'@'localhost' (using password: YES) in /home/hungfoep/telegram.hungerheroes.io/admin/admin_server_files/connectserver.php:9
+Stack trace:
+#0 /home/hungfoep/telegram.hungerheroes.io/admin/admin_server_files/connectserver.php(9): mysqli->__construct()
+#1 /home/hungfoep/telegram.hungerheroes.io/admin/admin_server_files/header_server.php(6): require('/home/hungfoep/...')
+#2 /home/hungfoep/telegram.hungerheroes.io/admin/index.php(2): require('/home/hungfoep/...')
+#3 {main}
+  thrown in /home/hungfoep/telegram.hungerheroes.io/admin/admin_server_files/connectserver.php on line 9
+[28-Sep-2024 22:20:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'moshcplo_ageapptest'@'localhost' (using password: YES) in /home/hungfoep/telegram.hungerheroes.io/admin/admin_server_files/connectserver.php:9
+Stack trace:
+#0 /home/hungfoep/telegram.hungerheroes.io/admin/admin_server_files/connectserver.php(9): mysqli->__construct()
+#1 /home/hungfoep/telegram.hungerheroes.io/admin/admin_server_files/header_server.php(6): require('/home/hungfoep/...')
+#2 /home/hungfoep/telegram.hungerheroes.io/admin/index.php(2): require('/home/hungfoep/...')
+#3 {main}
+  thrown in /home/hungfoep/telegram.hungerheroes.io/admin/admin_server_files/connectserver.php on line 9
+[28-Sep-2024 22:20:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'moshcplo_ageapptest'@'localhost' (using password: YES) in /home/hungfoep/telegram.hungerheroes.io/admin/admin_server_files/connectserver.php:9
+Stack trace:
+#0 /home/hungfoep/telegram.hungerheroes.io/admin/admin_server_files/connectserver.php(9): mysqli->__construct()
+#1 /home/hungfoep/telegram.hungerheroes.io/admin/admin_server_files/header_server.php(6): require('/home/hungfoep/...')
+#2 /home/hungfoep/telegram.hungerheroes.io/admin/index.php(2): require('/home/hungfoep/...')
+#3 {main}
+  thrown in /home/hungfoep/telegram.hungerheroes.io/admin/admin_server_files/connectserver.php on line 9
