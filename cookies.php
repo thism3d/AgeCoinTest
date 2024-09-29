@@ -1,5 +1,5 @@
 
     <?php
-    $botName = "Hunger Heros";
+    $botName = "Hunger Heroes";
     $coinName = "HH";
     ?>
