@@ -127,7 +127,7 @@ if ($result->num_rows > 0) {
 					<span>
 					  <a href="home">Constant Task</a>
 					  <a href="daily_task">Daily Task</a>
-					  <!-- <a href="change_logo">Change Logo</a> -->
+					  <a href="configure">Configure</a>
 					</span>
 				   </div>
 

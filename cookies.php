@@ -1,4 +1,5 @@
-<?php
-$botName = 'Hunger Heros';
-$coinName = "HugCoin";
-?>
+
+    <?php
+    $botName = "Hunger Heros";
+    $coinName = "HH";
+    ?>
